@@ -1,0 +1,17 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+.DS_Store
+*.log
+
+users/*.json
+users/*.lock
+users/*.tmp
+users/*.corrupt
+users/*.json.*.corrupt

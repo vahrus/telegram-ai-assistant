@@ -1,0 +1,8 @@
+"""Пределы, которые не зависят от переменных окружения."""
+
+MAX_TITLE_LENGTH = 60
+MAX_FACT_LENGTH = 500
+MAX_FACTS = 30
+MAX_INPUT_CHARS = 4000
+TELEGRAM_MESSAGE_LIMIT = 4000
+HISTORY_HARD_CAP = 100
